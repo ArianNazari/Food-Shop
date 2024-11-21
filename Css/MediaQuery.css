@@ -1,0 +1,140 @@
+@media(max-width:1045px) {
+    .Grouping {
+        flex-wrap: wrap;
+    }
+
+    .items_group_1 {
+        width: 45%;
+        margin: 1rem;
+    }
+
+    .items_group_2 {
+        width: 45%;
+        margin: 1rem;
+    }
+
+    .items_group_3 {
+        width: 45%;
+        margin: 1rem;
+    }
+
+    .items_group_4 {
+        width: 45%;
+        margin: 1rem;
+    }
+}
+
+@media(max-width:1024px) {
+    .text_slider {
+        width: 71%;
+    }
+
+    .img_slider {
+        width: 100%;
+    }
+
+    .title_white {
+        font-size: 40px;
+    }
+
+    .title_yellow {
+        font-size: 40px;
+    }
+}
+
+@media(max-width:976px) {
+    .icon_menu {
+        display: inline;
+    }
+
+    .search_box_Header {
+        display: none;
+    }
+
+    .Contact_Us_Header {
+        display: none;
+    }
+
+    .Header {
+        justify-content: space-between;
+    }
+
+    .Menu_text {
+        display: none;
+    }
+
+    .Menu {
+        justify-content: space-between;
+    }
+
+    .img_Header {
+        display: none;
+    }
+
+    .about_me_item {
+        flex-wrap: wrap;
+    }
+
+    .about_me_items {
+        width: 44%;
+        margin: 1rem;
+    }
+
+    .images_product {
+        flex-wrap: wrap;
+    }
+
+    .images_product img {
+        width: 45%;
+    }
+}
+
+@media(max-width:640px) {
+    .items_group_1 {
+        width: 100%;
+        margin: 1rem;
+    }
+
+    .items_group_2 {
+        width: 100%;
+        margin: 1rem;
+    }
+
+    .items_group_3 {
+        width: 100%;
+        margin: 1rem;
+    }
+
+    .items_group_4 {
+        width: 100%;
+        margin: 1rem;
+    }
+}
+
+@media(max-width:618px) {
+    .slider {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .img_slider {
+        width: 64%;
+    }
+
+    .text_slider {
+        margin: auto;
+    }
+
+    .about_me_items {
+        width: 100%;
+        margin: 1rem;
+    }
+
+    .about_me_items img {
+        width: 20%;
+    }
+
+    .images_product img {
+        width: 90%;
+    }
+}
